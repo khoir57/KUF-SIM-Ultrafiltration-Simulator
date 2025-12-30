@@ -1,0 +1,5 @@
+{
+  "name": "KUF-SIM Ultrafiltration Simulator",
+  "description": "An interactive scientific simulation to help students master the principles of ultrafiltration, featuring real-time particle dynamics, variable pressure controls, and an AI-powered tutor.",
+  "requestFramePermissions": []
+}
